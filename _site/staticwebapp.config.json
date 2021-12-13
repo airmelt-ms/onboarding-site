@@ -2,11 +2,11 @@
     "routes": [
         {
             "route": "/",
-            "redirect": "/.auth/login/aad?post_login_redirect_uri=https://red-tree-04b9dae10.azurestaticapps.net/onboarding/intro.html"
+            "redirect": "/.auth/login/aad?post_login_redirect_uri=https://yellow-mushroom-072b62910.azurestaticapps.net/onboarding/intro.html"
         },
         {
             "route": "/index.html",
-            "redirect": "/.auth/login/aad?post_login_redirect_uri=https://red-tree-04b9dae10.azurestaticapps.net/onboarding/intro.html"
+            "redirect": "/.auth/login/aad?post_login_redirect_uri=https://yellow-mushroom-072b62910.azurestaticapps.net/onboarding/intro.html"
         },
         {
             "route": "/onboarding/*",
