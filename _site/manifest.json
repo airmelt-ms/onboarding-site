@@ -1,0 +1,407 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/houk/Desktop/msws/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "KBZfysd4pTHy3TXI/83qNoPw7XybYXkwe2xFKoY5a+Y="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/ITAsset.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/ITAsset.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/TradeUnion.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/TradeUnion.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/dataexplorer.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/dataexplorer.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/game.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/game.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/kustoexplorer.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/kustoexplorer.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/powerbi-getdata-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/powerbi-getdata-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/powerbi-getdata-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/powerbi-getdata-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/shuttle.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/shuttle.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "k0P9SQCbQNDitPkLEIrmtbEiFYHcrQUzgv4zC09qgrA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/Engineering track/Day 1 Azure Management.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/Engineering track/Day 1 Azure Management.html",
+          "hash": "sHMtyp997NAFmYtIe+LEo3VtGOoiwTrAzNIvnk4Fvn0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/Engineering track/Day 2 Azure Core Services.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/Engineering track/Day 2 Azure Core Services.html",
+          "hash": "sDlw/PCVki+ocCs6Ta1IklfhCrbxKEivyZn7O/vfnVg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/Engineering track/Day 3 Important Azure Concepts.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/Engineering track/Day 3 Important Azure Concepts.html",
+          "hash": "1ZoZSrvVOV5y6ZjcgcUhnLyD2cBmfd2+lftkzlJHsM0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/Engineering track/Day 4 Service Developing Ecosystem.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/Engineering track/Day 4 Service Developing Ecosystem.html",
+          "hash": "aQiy5s/IlNS6JJIFjGw6S7ZVer4ji9qhjS4G3bf8bOM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/Engineering track/Day 5 Data Driven Engineering.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/Engineering track/Day 5 Data Driven Engineering.html",
+          "hash": "YUTPJ8pyzolpEXFzz5dKi+qoKc4DEXBSqJF97+I0CZI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/Engineering track/Day 6 Engineer Tech Ramp.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/Engineering track/Day 6 Engineer Tech Ramp.html",
+          "hash": "I2j+5vFZ96DXmcd286bgE1mjBPTq/dU2q75seM6DPuM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/Engineering track/Day 7 Prepare for Your Own Team.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/Engineering track/Day 7 Prepare for Your Own Team.html",
+          "hash": "Me2Tu7J+/XeUmemE4ZWvf1g7t3lNVLaeXa3EKc8Vy3g="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/PM track/pm-kusto.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/PM track/pm-kusto.html",
+          "hash": "fYFP/H6o4es3njX+hFuWJ4jyZtuzrvGxW7P2vBSfcIQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/PM track/pm-on-services.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/PM track/pm-on-services.html",
+          "hash": "tX3FiFdHAvC3VCg/Sf4WjR0N17YWVbhH6n64eWkXZo4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/PM track/pm-on-toolings.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/PM track/pm-on-toolings.html",
+          "hash": "LnRbwzm2gPH7edu6ILU4nkvutfH+P78BsAh0HQl56z4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/PM track/pm-powerbi.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/PM track/pm-powerbi.html",
+          "hash": "760+FIDRQqd9eRGTWhLmc0fl4H/tSeD/keOx4WFCARo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/PM track/pm-resources.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/PM track/pm-resources.html",
+          "hash": "JooDoV7z13r4Ick8wkk3QEOImfWnss6Uw+7138r75Fc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/PM track/pm-surveymonkey.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/PM track/pm-surveymonkey.html",
+          "hash": "pp1HM1i5xcVl5lUJav9Mv4Xqa5g4aoVbxGnGkwP4/pM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/engineering-track.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/engineering-track.html",
+          "hash": "fJ8AevfmxmMpyrX1EAb2DxYW55VNkULpY6QmZOL9ges="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/intro.html",
+          "hash": "m0LgpYJ6xjvKx0PRfDRNv5xdXvu9kCqxnd+1mI3NvBc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/learning-resources.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/learning-resources.html",
+          "hash": "lNz7wC/VxF/ELu4p+XhNPpWOdJ/N/z7/k51Kkf4/HME="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/pm-track.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/pm-track.html",
+          "hash": "rmemVtWZV4CNDL4TA3eDlr2FprM/6wpArbkZBKgsAnI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "onboarding/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/toc.html",
+          "hash": "mqZP8UHjzXrvYFNzuVG1DqJd1ukvKEx4jkgebJJoghA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "onboarding/useful-info.md",
+      "output": {
+        ".html": {
+          "relative_path": "onboarding/useful-info.html",
+          "hash": "w2cTfkjLNzCdKr6A6bIec7P233k25YOVwNmv41Sjnfk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "64feGQl5ksWOZwEAD66rIf10B/iHekJvx0wQnSeJmjQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 20,
+          "skipped_file_count": 19
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

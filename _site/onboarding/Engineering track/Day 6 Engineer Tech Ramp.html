@@ -1,0 +1,397 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Day 6. Engineer Tech Ramp </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Day 6. Engineer Tech Ramp ">
+    <meta name="generator" content="docfx 2.58.0.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="../../toc.html">
+    <meta property="docfx:tocrel" content="../toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="day-6-engineer-tech-ramp">Day 6. Engineer Tech Ramp</h1>
+
+<p>This doc provides technical sharing. Except for the sharing inside DevDiv China as shown in the sub-sections below, you can also find more in</p>
+<ul>
+<li>C + AI Technical Sharing. You will receive email notifications automatically once there are sharing.</li>
+<li>DevDiv Learning Day. Join the <a href="https://teams.microsoft.com/l/channel/19%3a78c254575a2b49b1b4903ea458f1394f%40thread.tacv2/%25E5%25B8%25B8%25E8%25A7%2584?groupId=aa73d857-bff7-4868-9ae9-4f3df2aef005&amp;tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47">channel</a> to learn and share.</li>
+</ul>
+<h2 id="devdiv-china-tech-sharing">DevDiv China Tech Sharing</h2>
+<p>Join the <a href="https://teams.microsoft.com/l/channel/19%3a98cf65f6ab4b422b83f6f724fecf0c1f%40thread.skype/Technical%2520Sharing?groupId=fa2e5b2c-9760-432d-a242-9dd1a146344b&amp;tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47">DevDiv China Tech Sharing Channel</a> to view a full list of sharing records. Some history topics are as follows.</p>
+<table>
+<thead>
+<tr>
+<th>Content</th>
+<th>Video</th>
+<th>Slides</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Azure REST API for Managing Azure Resources</td>
+<td><a href="https://msit.microsoftstream.com/video/1d853bfe-9804-468c-91f2-8452b2557070">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/IoTToolingTeam/EXh_xjSI-j5LrfiZJ1CjRc8BPLsPm-6YegV5YU2YRfp4HA?e=gdnL4M">Slides</a></td>
+</tr>
+<tr>
+<td>Basic UX Lesson for Developers</td>
+<td><a href="https://msit.microsoftstream.com/video/789bd541-fa3e-4e29-993e-71161a02695e">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/IoTToolingTeam/EX4NC0cLWMVJu-B14mafdKABWu3iggW_dzguy0q9Pa6l1A?e=Gd2uGf">Slides</a></td>
+</tr>
+<tr>
+<td>CI/CD in Action</td>
+<td><a href="https://web.microsoftstream.com/video/b7242e0f-7329-47c6-ba66-0401f623fc90">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/IoTToolingTeam/EWW6u9-SoSpNiSK0rGbHdOkBWIplYEcvwtfXyRqDMCurRA?e=4hPSt1">Part1</a>, <a href="https://microsoft.sharepoint.com/:p:/t/IoTToolingTeam/EbbrNLEoCxRJswJoqKvTRpQBlesr-HPG0rcG2r1F7OHMDw?e=cnbDRg">Part2</a></td>
+</tr>
+<tr>
+<td>Docker 101+</td>
+<td><a href="https://msit.microsoftstream.com/video/48f5f5fa-46b9-4156-aba1-417f4cab6b7a">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/IoTToolingTeam/ERqizpoI8Q5Hmqgx4566J9IBo1SQLyLRDKPqKakaIYlAtg">Slides</a></td>
+</tr>
+<tr>
+<td>Secrets of the Rockstar Programmers</td>
+<td><a href="https://msit.microsoftstream.com/video/ef3311e2-9f5c-44ec-ae75-14105c65a098">Video</a></td>
+<td><a href="https://microsoft-my.sharepoint.com/:p:/p/edburns/EbiGrC77F-FLoBiCAjPYsfUBuCZGcAiT1-UBkaDyw2ak7A?e=7vuzAi">Slides</a></td>
+</tr>
+<tr>
+<td>Jakarta EE: A Quick Overview</td>
+<td><a href="https://microsoft-my.sharepoint.com/:p:/p/edburns/EVyV4-N9KslNr59DPRvKzjMBdBBPgumfmpYhMbW2RMECsw">Video</a></td>
+<td><a href="https://msit.microsoftstream.com/video/db739b3b-b017-4484-b7fc-dc4aa6d7c967">Slides</a></td>
+</tr>
+<tr>
+<td>Code Review - How to do it right?</td>
+<td><a href="https://microsoftapc-my.sharepoint.com/:p:/g/personal/roml_microsoft_com/EbcXAEy_-K1Fqf3uv1vuFqkBDy8lpVLzYXg01mNNlsOAGA?e=hiB50T&amp;isSPOFile=1">Video</a></td>
+<td><a href="https://msit.microsoftstream.com/video/103c2a58-609e-4e47-8b29-9d4fb2c36302">Slides</a></td>
+</tr>
+<tr>
+<td>Open Source Project Contribution – Conventions and Tips</td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/IoTToolingTeam/EeqdP2UZpp9DjTLst1EbODkB7fubVJqJT7K1UzUcLPek4w?e=WPwd9v&amp;isSPOFile=1">Video</a></td>
+<td><a href="https://msit.microsoftstream.com/video/0041d594-4ed6-4290-bdaa-0cb137371f9e">Slides</a></td>
+</tr>
+<tr>
+<td>Practice of Clean Architecture</td>
+<td><a href="https://msit.microsoftstream.com/video/e02b6826-61eb-4ffc-bab4-eb4ffb233d2d">Video</a></td>
+<td><a href="https://microsoftapc-my.sharepoint.com/:p:/g/personal/ruijma_microsoft_com/EURww3bTnpZCl1THKw1ALkoBMsm94wMX-lyw55wk0GOXaQ">Slides</a></td>
+</tr>
+<tr>
+<td>The Evolution of VS Code Java Ecosystem</td>
+<td><a href="https://msit.microsoftstream.com/video/4a84051c-164a-4083-bbff-340193e8eba2">Video</a></td>
+<td><a href="https://www.slideshare.net/XiaokaiHe/eclipse-con-evolution-of-visual-studio-code-java-ecosystem">Slides</a></td>
+</tr>
+<tr>
+<td>VS Code Java Workshop by VS Code Java Team</td>
+<td><a href="https://msit.microsoftstream.com/video/50ba128c-e589-4ca7-af81-31fd077bf9e0">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/IoTToolingTeam/ESfNETn7XM9HowqdfLLRQjUBCV1SOcHvr3iqYnBhhZ5rKQ?e=Idcc9r&amp;isSPOFile=1">Slides</a></td>
+</tr>
+<tr>
+<td>Security of AKS</td>
+<td><a href="https://msit.microsoftstream.com/video/ba4d08b8-223d-4173-8847-67ba629e6eb5">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/IoTToolingTeam/Ede5dqAkZXlCo44rY19bww0BIYvOJidp16OsEKu9Npxqwg?e=9JqGWb&amp;isSPOFile=1">Slides</a></td>
+</tr>
+<tr>
+<td>Community Support Best Practices</td>
+<td><a href="https://msit.microsoftstream.com/video/62a852c2-9c29-4cce-a44d-bb173749bcc2">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/IoTToolingTeam/ERW5YgPvsdtOsCPp2k7r894BVzB2TGO31aBPtaAkDMxFOA?e=QEuzPs">Slides</a></td>
+</tr>
+<tr>
+<td>WFH Best Practices</td>
+<td><a href="https://msit.microsoftstream.com/video/1600a4ff-0400-aa75-7312-f1ea634d9d7f">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/IoTToolingTeam/EZMHK01nOCFPhiDTEwIzyFUBteo2U9NJx-Q-zKvrWYXZBw?e=XmjAhE&amp;isSPOFile=1">Slides</a></td>
+</tr>
+<tr>
+<td>Eclipse MicroProfile – A Quick Overview</td>
+<td><a href="https://msit.microsoftstream.com/video/bf4fa1ff-0400-86e7-9e36-f1ea8449f9c1">Video</a>, <a href="https://msit.microsoftstream.com/video/263ea1ff-0400-86ef-f32c-f1ea845a5340">Demo</a></td>
+<td><a href="https://microsoft.sharepoint.com/:b:/t/IoTToolingTeam/EcRoW4aB0AhLkhmiEYpkTL8B7DSePgomtwsD58Q4fz4y3g?e=usLC12">Slides</a></td>
+</tr>
+<tr>
+<td>Plan with GDPR in Mind</td>
+<td><a href="https://msit.microsoftstream.com/video/e34ba1ff-0400-a936-4fae-f1eaa54b4ba6">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/IoTToolingTeam/ES0Oun5HZ7pKlXk7T7le348BI7eRsNjgvAWjOtgBwoSQXg?e=QNzpcl&amp;isSPOFile=1">Slides</a></td>
+</tr>
+<tr>
+<td>Data-Driven Practice in Azure CLI</td>
+<td><a href="https://web.microsoftstream.com/video/b32ca1ff-0400-b9eb-2f8c-f1eb2a101b2c">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/IoTToolingTeam/EWxYCVstwFhIs6Kqj7ZWXLYBqukZ13j79opMFjmTAZLoxA?e=DogGuZ">Slides</a></td>
+</tr>
+<tr>
+<td>Lessons Learned from My 200 Million Startup</td>
+<td><a href="https://msit.microsoftstream.com/video/cd4fa1ff-0400-b9eb-98b2-f1eb3a94fc33">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/IoTToolingTeam/EXiEhwxvT3BIhz7NwwVuWf8BFtId4krlbZdP9Li8tEyK_A?e=EWhPyt">Slides</a></td>
+</tr>
+<tr>
+<td>Grow Your Product &amp; Impact with Retention Practices</td>
+<td><a href="https://msit.microsoftstream.com/video/2363a1ff-0400-9887-88c5-f1eb61fa35b8">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/JavaonAzureE2EExperiences/EeQZ2I9l6tdCplNj2wFYpS0B6_SzDQoSGmSK1wiytXB15Q?isSPOFile=1">Slides</a></td>
+</tr>
+<tr>
+<td>Guide to Developer / Engineering Specs</td>
+<td><a href="https://msit.microsoftstream.com/video/9f0da1ff-0400-b564-2463-f1eb65d12240">Video</a></td>
+<td><a href="https://microsoftapc.sharepoint.com/:p:/t/DevDivTeamsDevXProductTeam/EcLYofla28ZCgETHZ8qh46ABs4oxKfqeycQ4Rbge57sCfA?isSPOFile=1">Slides</a></td>
+</tr>
+<tr>
+<td>Azure App Service from the GROUND UP</td>
+<td><a href="https://msit.microsoftstream.com/video/a0b40840-98dc-869d-9886-f1ebc8d3b400">Video</a></td>
+<td><a href="https://microsoftapc-my.sharepoint.com/:p:/g/personal/wzhao_microsoft_com/EZzPcKTQVFVPtT0aMXBcl28B6srFLEj36YjYlwIdh48GMQ?isSPOFile=1">Slides</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="ame-brownbag">AME BrownBag</h2>
+<p>Join the <a href="https://teams.microsoft.com/l/channel/19%3a75b00b4739654670a2ba17138f3f7a6f%40thread.skype/brownbag%2520sessions?groupId=3e17dcb0-4257-4a30-b843-77f47f1d4121&amp;tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47">BrownBag Session</a> to view a full list of sharing records. Some history topics are as follows.</p>
+<table>
+<thead>
+<tr>
+<th>Content</th>
+<th>Video</th>
+<th>Slides</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Java Fluent SDK Azure Core Adoption &amp; Generator</td>
+<td><a href="https://web.microsoftstream.com/video/01e736bb-301b-4ebc-9d47-9c19f63b87fc">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/AzureManagementExperience/EYGDmiwC47FApKxCwlemglUBcQnHnkbdBaucKI5kjcYKVg?e=3TYIVd">Slides</a></td>
+</tr>
+<tr>
+<td>Service Architecture Pattern in Azure</td>
+<td><a href="https://web.microsoftstream.com/video/dcb4b78e-d0a4-40df-bce8-be609899e033">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/AzureManagementExperience/EYb3UZXEfqNBopZuhN6BY6UBb0gX8h-_JHB5IMe9gLGR0A?e=9goLG6">Slides</a></td>
+</tr>
+<tr>
+<td>Go 101</td>
+<td><a href="https://web.microsoftstream.com/video/e624a1ff-0400-aa75-5afa-f1ea64df077e">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/AzureManagementExperience/EQ63Aj8faqhIi3DcOnKWn3cBnrW_8fnniag0aexqnxcElA?e=9SRg9f">Slides</a></td>
+</tr>
+<tr>
+<td>Private Link (Network)</td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fweb.microsoftstream.com%2Fvideo%2Fb12ca1ff-0400-86e7-3fa9-f1ea72eccf94&amp;data=02%7C01%7Cychenu%40microsoft.com%7C540426c15ecb4d6adc4408d7d513e84c%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637212153853376266&amp;sdata=ywnlEc3KU8kZO8m9%2B2jhOCS%2BkTG7SF3spXJ6SWwfa3g%3D&amp;reserved=0">Video</a></td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/ap/p-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Ap%3A%2Ft%2FAzureManagementExperience%2FEYqyHQn8QG9Ih065gv1Yj94B9fz7zCapdfWfD1qFTcY4Yg%3Fe%3Dq241vE&amp;data=02%7C01%7Cychenu%40microsoft.com%7C540426c15ecb4d6adc4408d7d513e84c%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637212153853366265&amp;sdata=Z3VJjUBE1LmTNq%2F3nQwsarQxSKReQVJjZ82kSvZ6LfE%3D&amp;reserved=0">Slides</a></td>
+</tr>
+<tr>
+<td>VNet (Network)</td>
+<td><a href="https://web.microsoftstream.com/video/d72ca4ff-0400-86e9-6936-f1ea786bd221">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/AzureManagementExperience/Eao_qvLtnUpDsYw8EAv0SvYBBrP8079STQD7pnpOrCcbEg?e=qSw4YJ">Slides</a></td>
+</tr>
+<tr>
+<td>Load Balancer and Public IPs</td>
+<td><a href="https://web.microsoftstream.com/video/ade5a3ff-0400-86ea-5285-f1ea7def821e">Video</a></td>
+<td><a href="https://microsoft-my.sharepoint.com/:p:/p/errobin/EZw6J-SQFZhAhuXIFDZOz4wBP46RhSVf7tdo0YrhP3Em-Q?e=61Jpbz&amp;CID=2D797940-C783-4D05-AA7B-FD5D97451CC8&amp;wdLOR=cF7388ED6-07F2-4B2F-9C37-74571B59A9E3">Slides</a></td>
+</tr>
+<tr>
+<td>Containers (Network)</td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fweb.microsoftstream.com%2Fvideo%2F2800a4ff-0400-86ec-f236-f1ea836c98ea&amp;data=02%7C01%7Cychenu%40microsoft.com%7C178d7301fdf7495286bc08d7e5aad78f%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637230394283326333&amp;sdata=R%2BNI9BA2r8PdMh8fbeTaEtoJosNeVyKIid3iitnI15Y%3D&amp;reserved=0">Video</a></td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/ap/p-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Ap%3A%2Ft%2FAzureManagementExperience%2FEcQfAbLZaV9LocuoQuvNjdgBUqr6lohhHhNb86e0-f7Ciw%3Fe%3DdaJmN0&amp;data=02%7C01%7Cychenu%40microsoft.com%7C178d7301fdf7495286bc08d7e5aad78f%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637230394283316338&amp;sdata=9qtNrcN4Bfg2wqrz7vHh70gfaBVYJquMqy%2BceaRt1wY%3D&amp;reserved=0">Slides</a></td>
+</tr>
+<tr>
+<td>Firewall (Network)</td>
+<td><a href="https://web.microsoftstream.com/video/1723a1ff-0400-96d0-fc8f-f1ea88ebdb07">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:b:/t/AzureManagementExperience/ESw1JDxLFHxKrpZQgSC8Sh4BPz-h8QgR_15zY4Tww52x-Q?e=T7ueoj">Slides</a></td>
+</tr>
+<tr>
+<td>Engineering System</td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fweb.microsoftstream.com%2Fvideo%2F0104a1ff-0400-96d0-9291-f1ea89b37bd1&amp;data=02%7C01%7Cychenu%40microsoft.com%7C1444addf63fb4666a64a08d7ebdfd1ef%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637237218894614611&amp;sdata=fUClNS1HDB%2BQWc1H5K6idQ9LldEJZmg%2BnzX0wCLAs%2Fs%3D&amp;reserved=0">Video</a></td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/ap/p-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Ap%3A%2Fr%2Fteams%2FAzureDeveloperExperience%2F_layouts%2F15%2Fguestaccess.aspx%3Fe%3DY0FjuN%26CID%3D4574C897-545A-46FC-9C4F-DC3FCA8D0FB8%26wdLOR%3Dc1ED89B1C-AEE3-4E86-8C00-0DC7322C313A%26share%3DEedUHbTfZ9NGma94PHGOwTUBap9c3VhKvWUuaMLGv8iYBA&amp;data=02%7C01%7Cychenu%40microsoft.com%7C1444addf63fb4666a64a08d7ebdfd1ef%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637237218894614611&amp;sdata=2YvyE%2BjX4cZAIJM34qKUc2nnUKATwbS8k5VdMGrjuFk%3D&amp;reserved=0">Slides</a></td>
+</tr>
+<tr>
+<td>TypeScript</td>
+<td><a href="https://web.microsoftstream.com/video/d526a1ff-0400-96d0-9ac1-f1ea90f1a7da">Video</a></td>
+<td><a href="https://github.com/NullMDR/ts-brownbag">Slides</a></td>
+</tr>
+<tr>
+<td>Using IcM</td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fweb.microsoftstream.com%2Fvideo%2Ffa66a1ff-0400-a936-b061-f1eaa07eb07d&amp;data=02%7C01%7Cychenu%40microsoft.com%7C659a4a67fab849ad106f08d8034089d2%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637262923229305205&amp;sdata=%2FDp%2BU14cFWTtmUrrp1SNbIt0JUbDIMfjnCCRZaxJaSQ%3D&amp;reserved=0">Video</a></td>
+<td><a href="https://microsoft-my.sharepoint.com/:p:/p/honc/ESznNRjidGNBkZs60VNkhqIBTSfJAJaZtY-e7KU0SPXJWA?e=w8eWFg">Slides</a></td>
+</tr>
+<tr>
+<td>API guidelines and change policies</td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fweb.microsoftstream.com%2Fvideo%2Fe44ba1ff-0400-a936-2bf5-f1eaa6067e70&amp;data=02%7C01%7Cychenu%40microsoft.com%7Cd1594b5ebe564681581008d8082c5dc5%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637268334007911175&amp;sdata=l%2FSW7KdW%2FmI3Keb1qT4Q3%2BCQ2S%2BNyf67VukI2p2cyfQ%3D&amp;reserved=0">Video</a></td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/ap/p-59584e83/?url=https%3A%2F%2Fmicrosoft-my.sharepoint.com%2F%3Ap%3A%2Fp%2Fadhal%2FEXWWJzZWfR5JmCrxO-FTbt0BaSDZ-hojkIG9ZIWioMf3pA%3Fe%3DLWjzoZ&amp;data=02%7C01%7Cychenu%40microsoft.com%7Cd1594b5ebe564681581008d8082c5dc5%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637268334007921169&amp;sdata=IpzhZf7skig8TQ3mu6GT0bYYOyBGtyee1OtLVFuFSvw%3D&amp;reserved=0">Slides</a></td>
+</tr>
+<tr>
+<td>SDK Generation</td>
+<td><a href="https://web.microsoftstream.com/video/c80ba1ff-0400-a936-dab7-f1eaaaf7da9e">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/AzureManagementExperience/EWfdUZk9X0xNsvhpjeVwmwMBJYUwhVmyETQT-mScJZ9MhA?e=JNiDbp">Slides</a></td>
+</tr>
+<tr>
+<td>ADL</td>
+<td><a href="https://web.microsoftstream.com/video/3a5da1ff-0400-a521-cccc-f1eabc08b25f">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/AzureManagementExperience/Edc0cwy3uK5NjgPiwIjU080Bs7lbCXTWSzMX2nEW7GPEhg?e=SZDpm9">Slides</a></td>
+</tr>
+<tr>
+<td>Terraform</td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fweb.microsoftstream.com%2Fvideo%2Fcfdda3ff-0400-a521-d7a9-f1eac7e27cbb%2F%3Fautoplay%3Dtrue%26app%3Dmicrosoftteams%26showinfo%3Dfalse&amp;data=02%7C01%7Cychenu%40microsoft.com%7C70713456e203407f30e208d82a1335b1%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637305609338260529&amp;sdata=OJGOT0uEt6CtORGThheIeJvObg1IQyZN00PWtAFCZFo%3D&amp;reserved=0">Video</a></td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmicrosoft-my.sharepoint.com%2F%3Ab%3A%2Fp%2Fdapzhang%2FET2gsmOQwjtCtpJmCCtSd-QBImJdDaO3vtjneYQ4p6F5YQ&amp;data=02%7C01%7Cychenu%40microsoft.com%7C70713456e203407f30e208d82a1335b1%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637305609338260529&amp;sdata=4a7wSCpt5YHzc4O%2FUta01fphkK38wLqjgM5z%2FbSa3V0%3D&amp;reserved=0">Slides</a></td>
+</tr>
+<tr>
+<td>Swagger</td>
+<td><a href="https://web.microsoftstream.com/video/8855a1ff-0400-a521-5194-f1ead862d832">Video</a></td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/ap/p-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Ap%3A%2Ft%2FAzureManagementExperience%2FEVnvFhJpdUtJl2Jtj-Ry-R8BpwQQ4Ib0rbytWRRxbDG-Ww&amp;data=02%7C01%7CHongkun.Chen%40microsoft.com%7C1d7872af5a814b6652ea08d83aba94ac%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637323920561897554&amp;sdata=2FqFoKCjiP%2Fsi0kpj5FMijMrTJc0gWHF9cybY4Dt9KM%3D&amp;reserved=0">Slides</a></td>
+</tr>
+<tr>
+<td>AME 101 (Azure CLI and CodeGen)</td>
+<td><a href="https://web.microsoftstream.com/video/1042a1ff-0400-8385-7f2e-f1eae35b8699">Video</a></td>
+<td><a href="https://teams.microsoft.com/l/entity/com.microsoft.teamspace.tab.wiki/tab::2286d615-b677-49fd-94c8-0a3d3a3c06d9?context=%7B%22subEntityId%22%3A%22%7B%5C%22pageId%5C%22%3A44%2C%5C%22origin%5C%22%3A2%7D%22%2C%22channelId%22%3A%2219%3Aac44269cb8b545399bcde1919801c149%40thread.skype%22%7D&amp;tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47">Slides</a></td>
+</tr>
+<tr>
+<td>AME 101 (OSS and Azure PowerShell)</td>
+<td><a href="https://web.microsoftstream.com/video/010aa4ff-0400-96f3-401c-f1eaed8ddabb">Video</a></td>
+<td><a href="https://teams.microsoft.com/l/entity/com.microsoft.teamspace.tab.wiki/tab::2286d615-b677-49fd-94c8-0a3d3a3c06d9?context=%7B%22subEntityId%22%3A%22%7B%5C%22pageId%5C%22%3A44%2C%5C%22origin%5C%22%3A2%7D%22%2C%22channelId%22%3A%2219%3Aac44269cb8b545399bcde1919801c149%40thread.skype%22%7D&amp;tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47">Slides</a></td>
+</tr>
+<tr>
+<td>AME 101 (Swagger and Java SDK)</td>
+<td><a href="https://web.microsoftstream.com/video/8632a1ff-0400-96f3-8c8c-f1eaf95b2cc0">Video</a></td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fentity%2Fcom.microsoft.teamspace.tab.wiki%2Ftab%3A%3A2286d615-b677-49fd-94c8-0a3d3a3c06d9%3Fcontext%3D%257B%2522subEntityId%2522%253A%2522%257B%255C%2522pageId%255C%2522%253A44%252C%255C%2522origin%255C%2522%253A2%257D%2522%252C%2522channelId%2522%253A%252219%253Aac44269cb8b545399bcde1919801c149%2540thread.skype%2522%257D%26tenantId%3D72f988bf-86f1-41af-91ab-2d7cd011db47&amp;data=02%7C01%7Cychenu%40microsoft.com%7C1b06ab706eaa430b969808d84fecfc79%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637347226685759517&amp;sdata=RE9IxDOYBjL07orn3EmLI07%2Bi%2FCwuEQv4GPVbeIEdZw%3D&amp;reserved=0">Slides</a></td>
+</tr>
+<tr>
+<td>CodeGen for Azure CLI</td>
+<td><a href="https://msit.microsoftstream.com/video/2144a1ff-0400-9fb2-0c68-f1eb09dcbb84">Video</a></td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Interesting AI projects</td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fweb.microsoftstream.com%2Fvideo%2Fdd6aa1ff-0400-9fb2-e984-f1eb14dcdf8e&amp;data=04%7C01%7Cychenu%40microsoft.com%7C776d0c57128249c08a9108d87737abb9%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637390428371440231%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=VTzfmOpCYGrZr2xCM4nZImaD66FPNPmqfVydqlWYLnk%3D&amp;reserved=0">Video</a></td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Efficient Writing</td>
+<td><a href="https://web.microsoftstream.com/video/66efa3ff-0400-b9eb-66ea-f1eb28854ca0">Video</a></td>
+<td><a href="https://microsoft.sharepoint.com/:p:/t/AzureManagementExperience/ES1Jjtskeo5DsFms1H56CvkB7QCugXKt0Jsrh_r0hW-3Ng?e=YE9xMw">Slides</a></td>
+</tr>
+<tr>
+<td>Python</td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fweb.microsoftstream.com%2Fvideo%2F431ba4ff-0400-b9eb-30b9-f1eb3517d273and&amp;data=04%7C01%7Cychenu%40microsoft.com%7Cd7fbf593d22245e647dd08d898339c55%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637426694791890028%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=iPBcLOWXOkafJgIqSTn6S3nuRyF3UU2bwyAERTIoxfU%3D&amp;reserved=0">Video</a></td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/ap/p-59584e83/?url=https%3A%2F%2Fmicrosoft-my.sharepoint.com%2F%3Ap%3A%2Fp%2Fchangll%2FEY8stCGS9NJIi8gSEeiDlU8BqyY3iunrAF5XSGTwMQzVxQ&amp;data=04%7C01%7CHongkun.Chen%40microsoft.com%7Cd7fbf593d22245e647dd08d898339c55%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637426694795993264%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=kB3VL67hbebTCtabQVPlJiz6PiPx2oCX04U44S71UCs%3D&amp;reserved=0">Slides</a></td>
+</tr>
+<tr>
+<td>Data and AI</td>
+<td><a href="https://web.microsoftstream.com/video/c5dfa3ff-0400-9887-5f27-f1eb560a6c55">Video</a></td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>ADL</td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmicrosoft-my.sharepoint.com%2F%3Av%3A%2Fp%2Fychenu%2FES-CnjBd_HRBvRyFhEhH_EsBOgJtTzQFSh2AtM61P8kEvw&amp;data=04%7C01%7CHongkun.Chen%40microsoft.com%7Cf16ab5eea0194fc8ea7c08d8c370a19d%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637474235849443777%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=3GyOdvvwnnSnIoQF1XPD0czoWLrd%2BpKo56qBNVmzdl4%3D&amp;reserved=0">Video</a></td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/ap/p-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Ap%3A%2Ft%2FAzureManagementExperience%2FEcnlsyzYNExPgvITMSiGw9oBASx-asUEhAHR4tqV9mV0og%3Fe%3DwmogWDand&amp;data=04%7C01%7CHongkun.Chen%40microsoft.com%7Cf16ab5eea0194fc8ea7c08d8c370a19d%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637474235849433820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=LW2KEKHuJXbAq%2FWu%2FJH%2FVzJc3PXOsDnJp6sBHGX4BhI%3D&amp;reserved=0">Slides</a></td>
+</tr>
+<tr>
+<td>API Property Coverage Detection (@Terraform)</td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fweb.microsoftstream.com%2Fvideo%2F0767a1ff-0400-9887-c6a1-f1eb5c5fa824&amp;data=04%7C01%7Cychenu%40microsoft.com%7C3463a77533ca4e6af16608d8beb3aa6c%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637469026275871191%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=imUnCkxncRmbvZl0oVWESD%2B5fsXc7e7cEtokTQ%2F6Vn4%3D&amp;reserved=0">Video</a></td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/ap/p-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Ap%3A%2Ft%2FAzureManagementExperience%2FEX2k8dxDFE9DtyiKm8mi1OYBs_djLZ7rdLTwwFXNJyteRw%3Fe%3DQGXPgfrecording&amp;data=04%7C01%7CHongkun.Chen%40microsoft.com%7C3463a77533ca4e6af16608d8beb3aa6c%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637469026278007116%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=JYwnN2J6nXrhc7AKVumKvLaK7ycsBNA5WavMaskMCWw%3D&amp;reserved=0">Slides</a></td>
+</tr>
+<tr>
+<td>.NET API redesign</td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmicrosoft-my.sharepoint.com%2F%3Av%3A%2Fp%2Fychenu%2FEUJsgeRnDWpAi7n5CHf-1yMBjwZVYRnJtRwQTJIGpcxW4w&amp;data=04%7C01%7CHongkun.Chen%40microsoft.com%7Ce64530d1ed104e6f32ff08d8de271b55%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637503606974577390%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=1maCun4kGyNe52R0bDNWU4BII7zb7GalJEf%2BF3ZLjeI%3D&amp;reserved=0">Video</a></td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/ap/p-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Ap%3A%2Ft%2FAzureManagementExperience%2FETTTtBf_k6pJl4dn-mlLSBIBfTDeDn-rOKqNa7Zcfl_ZwA%3Fe%3DKlqyLo&amp;data=04%7C01%7CHongkun.Chen%40microsoft.com%7Ce64530d1ed104e6f32ff08d8de271b55%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637503606974577390%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=o9D2Rbm3Zm4N6FcDJ7sfPogpnMK1onF5iDZPUwZ%2Fd0Q%3D&amp;reserved=0">Slides</a></td>
+</tr>
+<tr>
+<td>ARM Knowledge</td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmicrosoft-my.sharepoint.com%2F%3Av%3A%2Fp%2Fychenu%2FEVQz68GnsAtJsFIjvYHFyckBgwQ0z4Vyk4VazfgIW6q0pg&amp;data=04%7C01%7CHongkun.Chen%40microsoft.com%7C14dd251b87c24f3db30b08d8eab16898%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637517395109730577%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=iXKXseQYd0aAs41jsC%2FMPT0LD2Sa%2BB7dcJKFj2DRBlc%3D&amp;reserved=0">Video</a></td>
+<td><a href="https://nam06.safelinks.protection.outlook.com/ap/p-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Ap%3A%2Ft%2FAzureManagementExperience%2FEUNNoEpARn1NnSLJMN4C_nAB2bziSfmz0-QfZ_p19zbcAw%3Fe%3DF5qcWtand&amp;data=04%7C01%7CHongkun.Chen%40microsoft.com%7C14dd251b87c24f3db30b08d8eab16898%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637517395109730577%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=jRMZwmOIzCGnOlbionWkzpjO7Df7jddgzFC%2FSszpmx0%3D&amp;reserved=0">Slides</a></td>
+</tr>
+<tr>
+<td>CMK (customer-managed keys)</td>
+<td><a href="https://microsoft-my.sharepoint.com/:v:/p/renhel/EQ2dTQACE55IkROSEwQYs1UBINAZh6erGGbRDkLUyoUfdQ?xsdata=MDN8MDF8fGE4ZTdlOTIzZTM1YzQ5ZmVhZWNlZmYyN2NkOWMzODFifDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDF8MHw2Mzc2MjI2MTAwOTQxODUxMzB8R29vZHxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaUlpd2lRVTRpT2lJaUxDSlhWQ0k2TVRKOQ%3D%3D&amp;sdata=UG1qSmgvRm9DSU1pVFV1Q2I1SUZ2UjZKWXdERWxlYmdkaHZNSDd0aXhoOD0%3D&amp;ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Chonc%40microsoft.com">Video</a></td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Shift-left framework</td>
+<td><a href="https://microsoftapc-my.sharepoint.com/:v:/g/personal/chunyu_microsoft_com/EaMHkUXelBxLjfguCxD1uEkBnl1sGeudLVPkPVhv7fTiOw?isSPOFile=1">Video</a></td>
+<td>N/A</td>
+</tr>
+</tbody>
+</table>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/devdivchina/docfx_project/blob/main/onboarding/Engineering track/Day 6 Engineer Tech Ramp.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>

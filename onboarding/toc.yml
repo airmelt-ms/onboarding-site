@@ -1,0 +1,77 @@
+- name: Onboarding
+  href: intro.md
+- name: Useful Information
+  href: useful-info.md
+  items:
+    - name: Badge
+      href: useful-info.md#badge
+    - name: Office Access
+      href: useful-info.md#office-access
+    - name: Phone Authentication
+      href: useful-info.md#phone-authentication
+    - name: MS network
+      href: useful-info.md#ms-network
+    - name: Remote Access Solutions
+      href: useful-info.md#remote-access-solutions
+    - name: Asset Management
+      href: useful-info.md#asset-management
+    - name: SAW machine
+      href: useful-info.md#saw-machine
+    - name: Headphone
+      href: useful-info.md#headphone
+    - name: Install Printer Driver
+      href: useful-info.md#install-printer-driver
+    - name: Key to the Cabinet
+      href: useful-info.md#key-to-the-cabinet
+    - name: MPR and Training Room Booking
+      href: useful-info.md#mpr-and-training-room-booking
+    - name: Business Card
+      href: useful-info.md#business-card
+    - name: Facilities Service Center
+      href: useful-info.md#facilities-service-center
+    - name: Useful Links
+      href: useful-info.md#useful-links
+    - name: Useful Phone No
+      href: useful-info.md#useful-phone-no
+    - name: HR-related
+      href: useful-info.md#hr-related
+    - name: Shuttle
+      href: useful-info.md#shuttle
+    - name: Cafeteria-related Suggestion
+      href: useful-info.md#cafeteria-related-suggestion
+    - name: Reimbursement
+      href: useful-info.md#reimbursement
+    - name: Trade Union
+      href: useful-info.md#trade-union
+    - name: Game Clubs
+      href: useful-info.md#game-clubs
+- name: Learning Resources
+  href: learning-resources.md
+- name: Engineering Track
+  href: engineering-track.md
+  items:
+    - name: Day 1 Azure Management
+      href: Engineering track/Day 1 Azure Management.md
+    - name: Day 2 Azure Core Services
+      href: Engineering track/Day 2 Azure Core Services.md
+    - name: Day 3 Important Azure Concepts
+      href: Engineering track/Day 3 Important Azure Concepts.md
+    - name: Day 4 Service Developing Ecosystem
+      href: Engineering track/Day 4 Service Developing Ecosystem.md
+    - name: Day 5 Data Driven Engineering
+      href: Engineering track/Day 5 Data Driven Engineering.md
+    - name: Day 6 Engineer Tech Ramp
+      href: Engineering track/Day 6 Engineer Tech Ramp.md
+    - name: Day 7 Prepare for Your Own Team
+      href: Engineering track/Day 7 Prepare for Your Own Team.md
+- name: PM Track
+  href: pm-track.md  
+  items:
+    - name: 0 - Useful resources
+      href: PM track/pm-resources.md
+    - name: 1 - Kusto / Data Explorer
+      href: PM track/pm-kusto.md
+    - name: 2 - Power BI
+      href: PM track/pm-powerbi.md
+    - name: 3 - SurveyMonkey
+      href: PM track/pm-surveymonkey.md
