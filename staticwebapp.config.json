@@ -10,7 +10,13 @@
         },
         {
             "route": "/onboarding/*",
-            "allowedRoles": ["authenticated"]
+            "allowedRoles": ["authenticated"],
+            "statusCode": 401
         }
-    ]
+    ],
+    "responseOverrides": {
+        "401": {
+          "redirect": "/index.html"
+        }
+      }
   }
