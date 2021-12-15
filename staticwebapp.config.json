@@ -10,13 +10,7 @@
         },
         {
             "route": "/onboarding/*",
-            "allowedRoles": ["authenticated"],
-            "statusCode": 401
+            "allowedRoles": ["authenticated"]
         }
-    ],
-    "responseOverrides": {
-        "401": {
-          "redirect": "/.auth/login/aad?post_login_redirect_uri=https://yellow-mushroom-072b62910.azurestaticapps.net/onboarding/intro.html"
-        }
-      }
-  }
+    ]
+}
