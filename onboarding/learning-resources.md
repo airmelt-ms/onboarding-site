@@ -13,6 +13,7 @@ Lots of learning activities and resources are available in DevDiv China. For new
 |Technical Learning​|[DevDiv China Tech Sharing​](./Engineering%20track/Day%206%20Engineer%20Tech%20Ramp.md)|
 ||[MS Library](https://aka.ms/mslibrary)|
 ||[O’Reilly Online Learning​](https://learning.oreilly.com/)|
+||[Pluralsight​](http://aka.ms/pluralsight)|
 ||[STRIKE Training​](https://aka.ms/strike/training)|
 |Career & Soft Skills|[Toastmaster](#toastmaster)|
 ||[HRWeb Learning​](https://microsoft.sharepoint.com/sites/infopedia)|
