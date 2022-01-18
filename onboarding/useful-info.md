@@ -29,7 +29,7 @@
 ### SAW machine
 - Please apply the SAW via link below:
 https://microsoft.sharepoint.com/teams/CECIT/Lists/Asset%20Assign/AllItems.aspx
-- Any questions about SAW, please contact IT Team (Weidong Zhai, v-bzhai OR Yujian Wang, v-yujiw)
+- Any questions about SAW, please contact IT Team (Weidong Zhai, v-bzhai OR Doris Cao, v-yangmcao )
 
 ### Headphone
 - Please contact IT team (Olivia Wu, v-oliwu) to collect OR replace headphone. 
@@ -53,10 +53,10 @@ Content: your alias, seat number, lock number 锁芯号 (carved on the lock, not
 ### MPR and Training Room Booking
 - For Reservation, please email to svlzzrec@microsoft.com
 MPR Room has 2 layout setting options: 150 seats auditorium OR 96 seats with writing tables. The training room has 2 layout setting options: 60 seats OR 40 seats with writing tables.
-- For A/V Support, please email to v-zhijin@microsoft.com OR v-kwei@microsoft.com OR Call 61888500
+- For A/V Support, please email to v-zhyang@microsoft.com OR v-kwei@microsoft.com OR Call 61888500
 
 ### Business Card
-- Please contact Receptionist (Anna Lu, v-luanna) OR go to [Self-service Plateform](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fref.chinanorth.cloudapp.chinacloudapi.cn%2Fportal%2Fzh-cn%2F&data=04%7C01%7CHongkun.Chen%40microsoft.com%7Cdd1a9b0e35714e141e9b08d972916db4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637666791202913704%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=sLluityyYtBhqZs9gG1Pnl8wCyf0bd8iXgoBcvKIL28%3D&reserved=0)
+- Please contact Receptionist (Vivi Wu, v-wuw) OR go to [Self-service Plateform](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fref.chinanorth.cloudapp.chinacloudapi.cn%2Fportal%2Fzh-cn%2F&data=04%7C01%7CHongkun.Chen%40microsoft.com%7Cdd1a9b0e35714e141e9b08d972916db4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637666791202913704%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=sLluityyYtBhqZs9gG1Pnl8wCyf0bd8iXgoBcvKIL28%3D&reserved=0)
 - Normally it will take around 7 business days to get the business card
 
 
@@ -117,15 +117,12 @@ To learn more about how Finance Digital Assistant (FDA) can help, check out the 
 
 |Fapiao Information|Company code 1942|
 |---|---|
-|公司名称|微软亚太科技有限公司工会|
+|公司名称|微软亚太科技有限公司工会委员会|
 |纳税人识别号|81310112332808161G|
 |公司地址|上海市闵行区紫星路999号|
 |电话|021-61888888|
 |开户行|中国银行股份有限公司上海市交通大学支行|
 |开户行账号|436468505677|
-
-![TradeUnion](/images/TradeUnion.png)
-
 
 ### Game Clubs
 - Clubs include table game, football, basketball, toastmaster and badminton. The QR codes may expire, contact sh-zizhu@microsoft.com or v-qinz@microsoft.com to join the wechat groups.
