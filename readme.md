@@ -8,12 +8,18 @@ This repository hosts the source codes of [DevDiv China onboarding site](https:/
 
 Building and deployment is triggered manually and on-demand. 
 ```
+// clone the repo
 git clone https://github.com/VSChina/onboarding-site
 
+// go to the root folder of the project
 cd onboarding-site/
 
+// build the readme files to generate the htmls
 docfx build
 
+// host the site locally to preview your changes. The vscode extension `LiveServer` might help.
+
+// deploy the htmls to the webapp
 az webapp up -g ddc-onboarding-infra -l eastus -p devdivchina-plan -n devdivchina --html
 ```
 
