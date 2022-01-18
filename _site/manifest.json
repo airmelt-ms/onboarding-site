@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Users/houk/Desktop/msws/docfx_project",
+  "source_base_path": "C:/Users/houk/Desktop/onboarding-site",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "KBZfysd4pTHy3TXI/83qNoPw7XybYXkwe2xFKoY5a+Y="
+          "hash": "PU6VEzMMyV/Jkwb7/1MNOCJ8PWHq104Ncz+itmAiLTM="
         }
       },
       "is_incremental": true,
@@ -21,17 +21,6 @@
       "output": {
         "resource": {
           "relative_path": "images/ITAsset.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "images/TradeUnion.png",
-      "output": {
-        "resource": {
-          "relative_path": "images/TradeUnion.png"
         }
       },
       "is_incremental": false,
@@ -109,7 +98,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "k0P9SQCbQNDitPkLEIrmtbEiFYHcrQUzgv4zC09qgrA="
+          "hash": "+uIGhOUmGjevyeJIfHBgfWFfPH6M9oXNAlnXz9XyN+o="
         }
       },
       "is_incremental": true,
@@ -121,7 +110,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/Engineering track/Day 1 Azure Management.html",
-          "hash": "sHMtyp997NAFmYtIe+LEo3VtGOoiwTrAzNIvnk4Fvn0="
+          "hash": "3zo/BgC2Xj2ShAlol4fc1gK7P4h6eh7QGv3ydq6KsDU="
         }
       },
       "is_incremental": true,
@@ -133,7 +122,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/Engineering track/Day 2 Azure Core Services.html",
-          "hash": "sDlw/PCVki+ocCs6Ta1IklfhCrbxKEivyZn7O/vfnVg="
+          "hash": "3UsHOGzBFmvurwI1+GjUZhYrJubVHVT6tyVb7OWonhk="
         }
       },
       "is_incremental": true,
@@ -145,7 +134,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/Engineering track/Day 3 Important Azure Concepts.html",
-          "hash": "1ZoZSrvVOV5y6ZjcgcUhnLyD2cBmfd2+lftkzlJHsM0="
+          "hash": "TrpYskvCje0w+8m68zYP7frBkLRIK+oVGdUxqrLehyk="
         }
       },
       "is_incremental": true,
@@ -157,7 +146,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/Engineering track/Day 4 Service Developing Ecosystem.html",
-          "hash": "aQiy5s/IlNS6JJIFjGw6S7ZVer4ji9qhjS4G3bf8bOM="
+          "hash": "T6ag0fL5/GIFgSRP/TrLmu6eQkkTQB6jjiHYiypNzCg="
         }
       },
       "is_incremental": true,
@@ -169,7 +158,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/Engineering track/Day 5 Data Driven Engineering.html",
-          "hash": "YUTPJ8pyzolpEXFzz5dKi+qoKc4DEXBSqJF97+I0CZI="
+          "hash": "Fm1B9wJoETHK+Muo2dhz0tt/KtHTbVes7ZB/ggguU34="
         }
       },
       "is_incremental": true,
@@ -181,7 +170,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/Engineering track/Day 6 Engineer Tech Ramp.html",
-          "hash": "I2j+5vFZ96DXmcd286bgE1mjBPTq/dU2q75seM6DPuM="
+          "hash": "jXax9XCEhENoLbKMgY2GkPfn4wfalnn94MCTzHMqGq0="
         }
       },
       "is_incremental": true,
@@ -193,7 +182,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/Engineering track/Day 7 Prepare for Your Own Team.html",
-          "hash": "Me2Tu7J+/XeUmemE4ZWvf1g7t3lNVLaeXa3EKc8Vy3g="
+          "hash": "KKwgb58XfzWTJapwXkUqE0lRMWaLutylkEFllmlSHqQ="
         }
       },
       "is_incremental": true,
@@ -205,7 +194,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/PM track/pm-kusto.html",
-          "hash": "fYFP/H6o4es3njX+hFuWJ4jyZtuzrvGxW7P2vBSfcIQ="
+          "hash": "+IKj7L9MriJTXLKbr+vChLa5oimxovTTX5Nm46l2efY="
         }
       },
       "is_incremental": true,
@@ -217,7 +206,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/PM track/pm-on-services.html",
-          "hash": "tX3FiFdHAvC3VCg/Sf4WjR0N17YWVbhH6n64eWkXZo4="
+          "hash": "wPK3AJTdEn+4i7g7bJJ/vTENauVyIcHXO3qjA06ERfM="
         }
       },
       "is_incremental": true,
@@ -229,7 +218,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/PM track/pm-on-toolings.html",
-          "hash": "LnRbwzm2gPH7edu6ILU4nkvutfH+P78BsAh0HQl56z4="
+          "hash": "AftgN8RpASPQbSawuSbR+DAJSBrdKUkou/WRY/YpMUA="
         }
       },
       "is_incremental": true,
@@ -241,7 +230,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/PM track/pm-powerbi.html",
-          "hash": "760+FIDRQqd9eRGTWhLmc0fl4H/tSeD/keOx4WFCARo="
+          "hash": "MG0KoNdej0IGd3GNwcqH3Fcla/o4NdTW7qk1MEPqecQ="
         }
       },
       "is_incremental": true,
@@ -253,7 +242,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/PM track/pm-resources.html",
-          "hash": "JooDoV7z13r4Ick8wkk3QEOImfWnss6Uw+7138r75Fc="
+          "hash": "BnjHyNmHNbNbQEpMOzkuoLNp4K4SgvRhqAO8ITzXdjo="
         }
       },
       "is_incremental": true,
@@ -265,7 +254,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/PM track/pm-surveymonkey.html",
-          "hash": "pp1HM1i5xcVl5lUJav9Mv4Xqa5g4aoVbxGnGkwP4/pM="
+          "hash": "pmTwqJ8y7Cg1TU8AlgKYugLmFmSQsG1pSqluISLDRLI="
         }
       },
       "is_incremental": true,
@@ -277,7 +266,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/engineering-track.html",
-          "hash": "fJ8AevfmxmMpyrX1EAb2DxYW55VNkULpY6QmZOL9ges="
+          "hash": "o3bY0Qw9nMFQG199nevY6e4O7fKmImRw8uaxHtZeEJs="
         }
       },
       "is_incremental": true,
@@ -289,10 +278,10 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/intro.html",
-          "hash": "m0LgpYJ6xjvKx0PRfDRNv5xdXvu9kCqxnd+1mI3NvBc="
+          "hash": "ONu+70HiXb8W6HuQ+KuQGYeqGPL7os6FhhfsmSacjQ4="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -301,7 +290,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/learning-resources.html",
-          "hash": "lNz7wC/VxF/ELu4p+XhNPpWOdJ/N/z7/k51Kkf4/HME="
+          "hash": "VjiGXgUxi/LHsXj2tzzXF1AYoOMukxL2oHO1QBXJI+0="
         }
       },
       "is_incremental": true,
@@ -313,7 +302,7 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/pm-track.html",
-          "hash": "rmemVtWZV4CNDL4TA3eDlr2FprM/6wpArbkZBKgsAnI="
+          "hash": "3KICv4aId57ApZO6HuuyMgYRCYVl2HNnWHS6ZFdh3Xc="
         }
       },
       "is_incremental": true,
@@ -337,7 +326,19 @@
       "output": {
         ".html": {
           "relative_path": "onboarding/useful-info.html",
-          "hash": "w2cTfkjLNzCdKr6A6bIec7P233k25YOVwNmv41Sjnfk="
+          "hash": "kKpJWr7M4+KuZ9VFMjhueHUXqrnFPngIzzZkMJlbp6I="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "readme.html",
+          "hash": "6ithimDoKGVatxIpRwEDGsQRA2fk8eMDuKhYTa3mInA="
         }
       },
       "is_incremental": false,
@@ -368,8 +369,8 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 20,
-          "skipped_file_count": 19
+          "total_file_count": 21,
+          "skipped_file_count": 20
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
