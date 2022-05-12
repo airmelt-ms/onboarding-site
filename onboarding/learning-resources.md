@@ -20,8 +20,9 @@ Lots of learning activities and resources are available in DevDiv China. For new
 ||[LinkedIn Learning​](https://www.linkedin.com/learning/)|
 ||Emails from [PRC HR Mail Box​](mailto:hrmail@microsoft.com)|
 |Company & Team Info​|[Microsoft Web (MSW)​](https://microsoft.sharepoint.com/)|
+||[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)|
 ||[DevDiv China Portal](https://microsoftapc.sharepoint.com/teams/DevDivChina/SitePages/About-DevDiv-China.aspx)|
-||[Microsoft Training](#required-training)|
+||[Microsoft Training](https://microsoft.sharepoint.com/sites/infopedia)|
 
 ## Azure Bootcamp 
 
