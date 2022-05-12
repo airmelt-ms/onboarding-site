@@ -70,9 +70,12 @@ MPR Room has 2 layout setting options: 150 seats auditorium OR 96 seats with wri
 ### Useful Links
  - Discover, engage and share on [MSW](https://microsoft.sharepoint.com/)
  - Submit your HR related questions on [HRWeb](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2Fsites%2Fhrw%2FPages%2Fhome.aspx&data=04%7C01%7CHongkun.Chen%40microsoft.com%7Cdd1a9b0e35714e141e9b08d972916db4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637666791202873879%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=870y7V0Axq0iyopIWUGYoD0n3fpPdt6XMHx%2Bl7TTmKY%3D&reserved=0)
+- Explore performance and rewards on [Rewards Overview](https://microsoft.sharepoint.com/sites/hrweb/sitepages/rewardsoverview.aspx)
 - Apply for Leave and vacation on [MSVacation](http://msvacation/)
 - Submit the reimbursement request on [MSExpense 2.0](http://msexpense2/)
 - Find terms and definitions on [MS glossary](https://microsoft.sharepoint.com/SitePages/Glossary.aspx)
+- Know about [Diversity & Inclusion at Microsoft](https://microsoft.sharepoint.com/sites/hrweb/sitePages/DiversityandInclusionatMS.aspx)
+
 
 ### Useful Phone No
 
