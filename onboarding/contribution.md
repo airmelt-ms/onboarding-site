@@ -18,3 +18,4 @@ Contributing to the site is as simple as authoring readme files. Follow the step
 - Josephine Qiu <yiqiu@microsoft.com>
 - Apple Zhang <jizhang2@microsoft.com>
 - Rome Li <Rome.Li@microsoft.com>
+- Ji Li <liji1@microsoft.com>
