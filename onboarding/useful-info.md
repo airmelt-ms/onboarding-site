@@ -75,6 +75,7 @@ MPR Room has 2 layout setting options: 150 seats auditorium OR 96 seats with wri
 - Submit the reimbursement request on [MSExpense 2.0](http://msexpense2/)
 - Find terms and definitions on [MS glossary](https://microsoft.sharepoint.com/SitePages/Glossary.aspx)
 - Know about [Diversity & Inclusion at Microsoft](https://microsoft.sharepoint.com/sites/hrweb/sitePages/DiversityandInclusionatMS.aspx)
+- Search for documents/internal website/SharePoint/internal StackOverflow on [Bing@Work](https://www.bing.com/work)
 
 
 ### Useful Phone No
