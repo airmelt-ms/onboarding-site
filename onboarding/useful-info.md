@@ -6,7 +6,7 @@
 
 ### Office Access
 - Apply the office access for others or yourself via below process:
-[GSAM Self Service Portal](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2Fsites%2Fsecurity%2FServices%2FGSAM%2FPages%2FGSAM%2520Self%2520Service%2520Portal.aspx&data=04%7C01%7CHongkun.Chen%40microsoft.com%7Cdd1a9b0e35714e141e9b08d972916db4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637666791202883832%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&): Select your country → Click New Request → Access Level Change Request → Add and Choose the office name with the specific access you need, then Submit your request at the bottom button.
+[GSAM Self Service Portal](http://aka.ms/gsamssp): Select your country → Click New Request → Access Level Change Request → Add and Choose the office name with the specific access you need, then Submit your request at the bottom button.
 
 ### Phone Authentication
 - Please click [Microsoft Phone Authentication](https://phoneregistration.microsoft.com/) to finish the process. 
